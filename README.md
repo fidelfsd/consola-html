@@ -7,8 +7,8 @@
 
 Write about 1-2 paragraphs describing the purpose of your project.
 
-See the
-[demo](https://fidelfsd.github.io/consola-html/)
+
+See the <a href="https://fidelfsd.github.io/consola-html/" target="_blank">demo</a>
 
 
 ## Getting Started <a name = "getting_started"></a>
